@@ -1,0 +1,32 @@
+[
+    {
+        "documento": "123",
+        "nombre": "felipe avil",
+        "tipo_vehiculo": "ningun vehiculo"
+    },
+    {
+        "documento": "1",
+        "nombre": "melannie2",
+        "tipo_vehiculo": "carro"
+    },
+    {
+        "documento": "2",
+        "nombre": "alzate",
+        "tipo_vehiculo": "ningun vehiculo"
+    },
+    {
+        "documento": "3",
+        "nombre": "ppablo",
+        "tipo_vehiculo": "otro"
+    },
+    {
+        "documento": "123045",
+        "nombre": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python313\\python.exe c:/Users/USUARIO/Desktop/grupoentregamenudrivesafe/grupo-proyecto/main.py",
+        "tipo_vehiculo": "carro"
+    },
+    {
+        "documento": "1232473",
+        "nombre": "pancho veredas",
+        "tipo_vehiculo": "carro"
+    }
+]

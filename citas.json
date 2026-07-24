@@ -1,0 +1,28 @@
+[
+    {
+        "id": "2c51f0e3",
+        "documento_cliente": "123",
+        "nombre_cliente": "felipe avil",
+        "documento_instructor": "12345",
+        "nombre_instructor": "miguel andres",
+        "vehiculo": "moto1",
+        "fecha": "2026-07-23",
+        "hora": "15:30",
+        "duracion": 30,
+        "asistencia": "no",
+        "observacion": "decia que no podia"
+    },
+    {
+        "id": "57b0366f",
+        "documento_cliente": "2",
+        "nombre_cliente": "alzate",
+        "documento_instructor": "1345",
+        "nombre_instructor": "andres",
+        "vehiculo": "carro1",
+        "fecha": "2026-07-25",
+        "hora": "03:00",
+        "duracion": 30,
+        "asistencia": "si",
+        "observacion": "manejo excelente"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "alias": "moto1",
+        "placa": "POE234",
+        "tipo": "moto",
+        "propietario": "publico"
+    },
+    {
+        "alias": "carro1",
+        "placa": "JHG876",
+        "tipo": "carro",
+        "propietario": "cliente",
+        "documento_cliente": "1"
+    }
+]

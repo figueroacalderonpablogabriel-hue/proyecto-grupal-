@@ -1,0 +1,17 @@
+[
+    {
+        "documento": "12345",
+        "nombre": "miguel andres",
+        "especialidad": "ambos"
+    },
+    {
+        "documento": "1345",
+        "nombre": "andres",
+        "especialidad": "carro"
+    },
+    {
+        "documento": "4567",
+        "nombre": "miguel",
+        "especialidad": "moto"
+    }
+]
